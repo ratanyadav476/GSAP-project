@@ -467,7 +467,6 @@ nav h1 i {
     .section1bottom {
     width: 100%;
     height: 50%;
-    margin-top: 57%;
        opacity: 0;
 }
 
@@ -521,9 +520,5 @@ nav h1 i {
         font-size: 19px;
         
     }
-    html,
-body {
-    margin-right:10px;
-}
 
 }
