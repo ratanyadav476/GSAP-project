@@ -461,12 +461,14 @@ nav h1 i {
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
+       
     }
     
     .section1bottom {
     width: 100%;
     height: 50%;
     margin-top: 57%;
+       opacity: 0;
 }
 
     .leftdiv {
@@ -509,6 +511,7 @@ nav h1 i {
     }
     .lastsmlcontainer hr {
         margin: 1%;
+         opacity: 0;
     }
     nav {
         padding: 33px 21px;
@@ -518,5 +521,9 @@ nav h1 i {
         font-size: 19px;
         
     }
+    html,
+body {
+    margin-right:10px;
+}
 
 }
