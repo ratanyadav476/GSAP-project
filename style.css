@@ -462,10 +462,12 @@ nav h1 i {
         flex-direction: column;
         flex-wrap: wrap;
     }
-     .section1bottom{
-        width: 100%;
-        height: 50%;
-    }
+    
+    .section1bottom {
+    width: 100%;
+    height: 50%;
+    margin-top: 57%;
+}
 
     .leftdiv {
         width: 131%;
