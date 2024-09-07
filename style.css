@@ -462,6 +462,10 @@ nav h1 i {
         flex-direction: column;
         flex-wrap: wrap;
     }
+     .section1bottom{
+        width: 100%;
+        height: 50%;
+    }
 
     .leftdiv {
         width: 131%;
@@ -485,13 +489,12 @@ nav h1 i {
         rotate: 90deg;
     }
 
-    .lastsmlcontainer{
-        width: 100%;
-        height: 119%;
+   .lastsmlcontainer {
+        width: 120%;
+        height: 143%;
         display: flex;
         flex-wrap: wrap;
         flex-direction: row-reverse;
-     
     }
     .middle {
         width: 100%;
